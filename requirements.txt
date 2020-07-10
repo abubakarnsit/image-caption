@@ -10,4 +10,3 @@ pandas
 keras
 scikit-learn
 matplotlib
-re
