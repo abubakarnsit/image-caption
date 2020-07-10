@@ -10,6 +10,4 @@ pandas
 keras
 scikit-learn
 matplotlib
-json
 re
-time
