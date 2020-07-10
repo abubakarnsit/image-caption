@@ -10,7 +10,6 @@ pandas
 keras
 scikit-learn
 matplotlib
-pickle
 json
 re
 time
